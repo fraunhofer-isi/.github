@@ -1,6 +1,7 @@
 # Fraunhofer ISI
 
-Welcome to the GitHub Pages of Fraunhofer ISI! We analyze the origins and impacts of #innovations for partners from industry, policy and society.
+Welcome to the GitHub Pages of Fraunhofer ISI! 
+We analyze the origins and impacts of #innovations for partners from industry, policy and society.
 
 [PUBLISHING NOTES](https://www.isi.fraunhofer.de/en/publishing-notes.html) &nbsp;&nbsp;  [DATA PROTECTION POLICY](https://www.isi.fraunhofer.de/en/data_protection.html)
 
