@@ -1,6 +1,6 @@
 # Fraunhofer ISI
 
-The **Fraunhofer Institute for Systems and Innovation Research** ISI analyzes the origins and impacts of **innovations**. We research the short- and long-term developments of innovation processes and the **impacts of new technologies and services on society**. On this basis, we are able to provide our clients from industry, politics and science with **recommendations for action and perspectives for key decisions**. Our expertise is founded on our **scientific competence as well as an interdisciplinary and systemic research approach**.
+The **Fraunhofer Institute for Systems and Innovation Research** ISI analyzes the origins and impacts of **innovations**. We research the short- and long-term developments of innovation processes and the **impacts of new technologies and services on society**. On this basis, we are able to provide our clients from **industry, politics and science** with **recommendations for action and perspectives for key decisions**. Our expertise is founded on our **scientific competence as well as an interdisciplinary and systemic research approach**.
 
 
 <table>
