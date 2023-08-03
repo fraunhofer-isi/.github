@@ -24,6 +24,10 @@ The **Fraunhofer ISI** is a constituent entity of the [Fraunhofer-Gesellschaft](
   </tr>
 </table>
 
+# Repositories
+
+Go to [repositories](https://github.com/orgs/fraunhofer-isi/repositories) or scroll down.
+
 # Contributions
 
 We provide **open source** code in our own [repositories](https://github.com/orgs/fraunhofer-isi/repositories) and in **cooperation** with following partner projects:
