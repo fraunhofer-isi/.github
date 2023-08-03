@@ -30,7 +30,7 @@ Go to [repositories](https://github.com/orgs/fraunhofer-isi/repositories) or scr
 
 # Contributions
 
-We provide **open source** code in our own [repositories](https://github.com/orgs/fraunhofer-isi/repositories) and in **cooperation** with following partner projects:
+We also provide **open source** code in **cooperation** with following partner projects:
 
 <html>
 <table>
