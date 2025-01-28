@@ -48,6 +48,14 @@ We also provide **open source** code in **cooperation** with following partner p
     <td>A Modeling Suite for the Operation and Energy Consumption of Households and Energy Communities</td>
     <td>Python</td>
     <td>MIT</td>
+  </tr>
+
+  <tr>
+    <td>ASSUME</td>
+    <td>https://github.com/assume-framework/assume</td>
+    <td>An open-source toolbox for agent-based simulations of European electricity markets</td>
+    <td>Python</td>
+    <td> GNU Affero General Public License v3.0 (Approved by open source initiative https://opensource.org/license/agpl-v3)</td>
   </tr> 
 </table>
 </html>
