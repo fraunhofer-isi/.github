@@ -57,6 +57,14 @@ We also provide **open source** code in **cooperation** with following partner p
     <td>Python</td>
     <td> GNU Affero General Public License v3.0 (Approved by open source initiative https://opensource.org/license/agpl-v3)</td>
   </tr> 
+  
+  <tr>
+    <td>flow</td>
+    <td>https://github.com/H2020-newTRENDs/flow</td>
+    <td>A stock-driven material flow model for steel and concrete in EU buildings</td>
+    <td>Python</td>
+    <td>MIT</td>
+  </tr>
 </table>
 </html>
 
