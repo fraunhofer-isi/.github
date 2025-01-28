@@ -55,7 +55,7 @@ We also provide **open source** code in **cooperation** with following partner p
     <td>https://github.com/assume-framework/assume</td>
     <td>An open-source toolbox for agent-based simulations of European electricity markets</td>
     <td>Python</td>
-    <td> GNU Affero General Public License v3.0 (Approved by open source initiative https://opensource.org/license/agpl-v3)</td>
+    <td>AGPL-3.0-only</td>
   </tr> 
   
   <tr>
