@@ -65,6 +65,14 @@ We also provide **open source** code in **cooperation** with following partner p
     <td>Python</td>
     <td>MIT</td>
   </tr>
+
+  <tr>
+    <td>Transience EU MFA</td>
+    <td>https://github.com/wupperinst/transience-eu-mfa</td>
+    <td>A material flow model for plastics, steel and cement in the EU</td>
+    <td>Python</td>
+    <td>CC BY-SA 4.0</td>
+  </tr>
 </table>
 </html>
 
